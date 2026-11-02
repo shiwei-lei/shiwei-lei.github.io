@@ -1,6 +1,6 @@
 
 ---
-permalink: /
+permalink: /about/
 title: "About Me"
 excerpt: "Academic Homepage of Shiwei Lei"
 author_profile: true
