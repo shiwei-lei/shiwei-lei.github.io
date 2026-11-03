@@ -11,17 +11,13 @@ author_profile: true
 
 # Shiwei Lei (雷士伟)
 
-I am a second-year master's student in Cyberspace Security at Changchun University, China.
-
-I received my bachelor's degree in Computer Science and Technology from Changchun University of Technology, China.
-
-I am interested in exploring research ideas, learning new techniques, and developing practical solutions.
+Just want to do something.
 
 <span class='anchor' id='education'></span>
 
 # Education
 
-- **Master's Student in Cyberspace Security**, Changchun University, China.
+- **second-year Master's Student in Cyberspace Security**, Changchun University, China.
 
 - **Bachelor's Degree in Computer Science and Technology**, Changchun University of Technology, China.
 
@@ -38,4 +34,4 @@ I am interested in exploring research ideas, learning new techniques, and develo
 
 - Email: [18843895668@163.com](mailto:18843895668@163.com)
 
-- GitHub: [lei-account](https://github.com/lei-account)
+- GitHub: [shiwei-lei](https://github.com/shiwei-lei)
