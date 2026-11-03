@@ -9,16 +9,16 @@ I am a second-year master's student in Cyberspace Security at Changchun Universi
 
 # Education
 
-- **Master's student in Cyberspace Security**, Changchun University, China.
+- **Master's Student in Cyberspace Security**, Changchun University, China.
 
-- **Bachelor's degree in Computer Science and Technology**, Changchun University of Technology, China.
+- **Bachelor's Degree in Computer Science and Technology**, Changchun University of Technology, China.
 
 <span class='anchor' id='research-interests'></span>
 
 # Research Interests
 
-- Attacks on and defenses for image watermarking systems
-- Adversarial patch attacks and defenses
+- Image Watermarking Security: Attacks and Defenses
+- Adversarial Patch Attacks and Defenses
 
 <span class='anchor' id='contact'></span>
 
