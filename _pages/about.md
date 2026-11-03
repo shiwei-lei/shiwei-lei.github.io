@@ -40,4 +40,4 @@ I am interested in exploring research ideas, learning new techniques, and learni
 
 - Email: [18843895668@163.com](mailto:18843895668@163.com)
 
-- GitHub: [lei-account](https://github.com/lei-account)
+- GitHub: [shiwei-lei](https://github.com/shiwei-lei)
