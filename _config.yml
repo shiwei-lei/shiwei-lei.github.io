@@ -102,7 +102,16 @@ kramdown:
 
 # Defaults
 defaults:
-  # _pages
+  - scope:
+      path: "index.md"
+      type: pages
+    values:
+      layout: default
+      permalink: /
+      title: "About Me"
+      excerpt: "Academic Homepage of Shiwei Lei"
+      author_profile: true
+
   - scope:
       path: ""
       type: pages
