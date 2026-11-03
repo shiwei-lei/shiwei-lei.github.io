@@ -1,11 +1,4 @@
 
----
-layout: default
-permalink: /
-title: "About Me"
-excerpt: "Academic Homepage of Shiwei Lei"
-author_profile: true
----
 
 <span class='anchor' id='about-me'></span>
 
