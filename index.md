@@ -1,4 +1,5 @@
 
+
 <span class='anchor' id='about-me'></span>
 
 # Shiwei Lei (雷士伟)
@@ -9,15 +10,16 @@ I am a second-year master's student in Cyberspace Security at Changchun Universi
 
 # Education
 
-- **Master's Student in Cyberspace Security**, Changchun University, China.
+- **Master's student in Cyberspace Security**, Changchun University, China.
 
-- **Bachelor's Degree in Computer Science and Technology**, Changchun University of Technology, China.
+- **Bachelor's degree in Computer Science and Technology**, Changchun University of Technology, China.
 
 <span class='anchor' id='research-interests'></span>
 
 # Research Interests
 
 - Image Watermarking Security: Attacks and Defenses
+
 - Adversarial Patch Attacks and Defenses
 
 <span class='anchor' id='contact'></span>
@@ -25,5 +27,3 @@ I am a second-year master's student in Cyberspace Security at Changchun Universi
 # Contact
 
 - Email: [18843895668@163.com](mailto:18843895668@163.com)
-
-- GitHub: [shiwei-lei](https://github.com/shiwei-lei)
